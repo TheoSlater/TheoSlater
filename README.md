@@ -2,6 +2,8 @@
 
 **16 Year Old Software engineer building useful things for the web, desktop and mobile.**
 
+**Currently building: Photon Browser**
+
 [![Website](https://img.shields.io/badge/theoslater.is--a.dev-111111?style=flat-square\&logo=safari\&logoColor=white)](https://theoslater.is-a.dev)
 [![GitHub followers](https://img.shields.io/github/followers/TheoSlater?style=flat-square\&label=followers\&color=111111)](https://github.com/TheoSlater?tab=followers)
 
