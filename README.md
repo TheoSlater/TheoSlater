@@ -16,7 +16,7 @@ Currently focused on **TypeScript**, **desktop apps**, **AI tools**, and increas
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tauri,rust,go,java,git&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,tauri,rust,cpp,cs,python,go,java,git&theme=dark" alt="Tech stack" />
 </p>
 
 ### Selected work
@@ -27,8 +27,7 @@ Currently focused on **TypeScript**, **desktop apps**, **AI tools**, and increas
 * **[supertonic-rs](https://github.com/TheoSlater/supertonic-rs)** — Rust SDK port for Supertonic.
 * **[theoslater.is-a.dev](https://github.com/TheoSlater/theoslater.is-a.dev)** — my personal site.
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=theoslater&timezone=GMT)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=theoslater\&timezone=GMT)](https://git.io/streak-stats)
 
 <sub>
   <a href="https://theoslater.is-a.dev">website</a>
